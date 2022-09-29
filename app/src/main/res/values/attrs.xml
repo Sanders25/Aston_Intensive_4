@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnalogClockView">
+        <attr name="accentColor" format="color" />
+        <attr name="handsLengthMultiplier" format="float" />
+        <attr name="innerPadding" format="dimension"/>
+        <attr name="arcWidth" format="dimension"/>
+    </declare-styleable>
+</resources>
